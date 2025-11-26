@@ -338,6 +338,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Telegram Bot API](https://core.telegram.org/bots/api) - Notifications
 - [ArduinoJson](https://arduinojson.org/) - JSON parsing library
 
+### 🎖️ Special Thanks
+
+**[CICR - The Robotics Hub of JIIT-128](https://github.com/CICR-The-Robotics-Hub-of-JIIT-128)** for providing the necessary sensors for temperature monitoring. Their support made this project possible! 🤖
+
 ---
 
 ## 👨‍💻 Author
