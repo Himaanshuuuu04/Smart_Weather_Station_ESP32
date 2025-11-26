@@ -32,11 +32,11 @@ const char* ssid = "Airtel_Airtel";
 const char* password = "air51250";
 
 // Telegram Bot Configuration
-const char* telegramBotToken = "8339328979:AAG9peB0LxsD6mJ1NHM5MFxzS3jem2a9CG0";
-const char* telegramChatId = "8098269389";
+const char* telegramBotToken = "xxxxx";
+const char* telegramChatId = "xxxxx";
 
 // Gemini AI Configuration
-const char* geminiApiKey = "AIzaSyCLgyR3QkJF8OfFFNuuJ1l7uJ8zu0YmOrw";
+const char* geminiApiKey = "xxxxxx";
 
 // Noida Coordinates (for outdoor weather)
 const float NOIDA_LAT = 28.5355;
@@ -882,3 +882,4 @@ void loop() {
     lastOutdoorFetch = millis();
   }
 }
+
